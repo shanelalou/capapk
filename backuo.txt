@@ -1,0 +1,699 @@
+<!--Front Page-->
+<div data-role="page" id="first" class="content">
+
+
+<div data-role="content" align="center">
+	<div id="content"><img src="images/front.png" height="1100" width="750" id="pics" data-position="fixed"></div>
+	
+	
+	
+	<div data-role="footer" data-position="fixed" data-theme="b">
+	<div data-role="navbar">
+		<ul>
+		
+			<li><a href="#mainpage" data-theme="b"  data-icon="search" data-iconpos="top"><font size="3%">Explore</font></a></li>
+			
+			</ul>
+	</div><!-- /navbar -->
+</div>
+
+
+    </div>
+</div>
+
+
+
+
+<div data-role="page" data-theme="e" id="ithree" style= "background: transparent url(images/capbg.png); background-repeat: no-repeat;">
+
+  <div data-role="content" align="center">
+ <br><br>
+  <img src="images/ithree.png" height="90%" width="90%">
+	  
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<div data-role="navbar">
+		<ul>
+		<li><a href="#about" data-theme="c"  data-icon="arrow-l" data-iconpos="top"><font size="3%">Back</font></a></li>
+			
+			</ul>
+	</div><!-- /navbar -->
+</div>
+	
+</div>
+  
+  </div>
+  
+  <!--MAIN PAGE-->
+<div data-role="page" id="mainpage" class="content" style= "background: #0e78a2;">
+ <div data-role="header" data-theme="a"  align="center" data-position="fixed">
+ <img src="images/header1.png" height="80%" width="80%">
+ </div>
+<div data-role="content" align="center" >
+<br><br>
+
+    <a href="#history"><img src="images/history.png" height="30%" width="30%"></a>
+	 <a href="#frmhistory"><img src="images/vmg.png" height="30%" width="30%"></a>
+	  <a href="#frmhistory"><img src="images/admission.png" height="30%" width="30%"></a>
+	   <a href="#frmhistory"><img src="images/programs.png" height="30%" width="30%"></a>
+	    <a href="#frmhistory"><img src="images/calendar.png" height="30%" width="30%"></a>
+		 <a href="#frmhistory"><img src="images/partners1.png" height="30%" width="30%"></a>
+		  <a href="#frmhistory"><img src="images/contact.png" height="30%" width="30%"></a>
+		  <a href="#about"><img src="images/about.png" height="30%" width="30%"></a>
+	 
+
+	
+	<div data-role="footer" data-position="fixed" data-theme="b">
+	<div data-role="navbar">
+		<ul>
+		
+		<li><a href="#first" data-theme="b"  data-icon="arrow-l" data-iconpos="left"><font size="3%">Back</font></a></li>
+		<li><a href="#first" data-theme="b"  data-icon="info" data-iconpos="left"><font size="3%">Help</font></a></li>
+		
+			</ul>
+	</div><!-- /navbar -->
+</div>
+
+
+    </div>
+</div>
+
+
+<!--About-->
+<div data-role="page" id="about" style= "background: transparent url(images/capbg.png);">
+
+  <div data-role="content" align="center">
+  
+
+  <img src="images/cap1.png" height="50%" width="50%"></br>
+    <font size="5%" face="Century Gothic"> <p align="center">Version 1.0</p> </font>
+     <font size="3%" face="Century Gothic"> <p align="justify">CCS Access Point (CAP) is a cross platform mobile student portal created for Gordon College - College of Computer Studies. It was created to provide communication medium that is beneficial among the Faculty Members, Parents and especially the Students and to promote innovation for the college by providing convenient way of viewing their grades and portable reference of college information.</p></font>
+	 <font size="3%" face="Century Gothic"> <p align="justify">This application is created using HTML5, Javascript and CSS and available on BlackBerry World for z10 and q10 and Google Play for Android phones.<font></p>
+  <font size="2%" face="Century Gothic"> <p align="center"><strong>Scan this to download</strong></p> </font>
+ <img src="images/qr.png" height="50%" width="50%"></br>
+
+  
+	 
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<div data-role="navbar">
+		<ul>
+		<li><a href="#first" data-theme="c"  data-icon="arrow-l" data-iconpos="top"><font size="3%">Back</font></a></li>
+		<li><a href="#ithree" data-theme="c"  data-icon="star" data-iconpos="top"><font size="3%">Developers</font></a></li>
+			
+			</ul>
+	</div><!-- /navbar -->
+</div>
+	
+</div>
+  
+  </div>
+  
+        <!--History-->
+<div data-role="page" id="history">
+
+  <div data-role="content">
+  
+
+  <p align="justify"><font size="3%" face="Century Gothic">&nbsp;&nbsp;&nbsp;&nbsp;Gordon College, also known as Dalubhasaang Gordon in Filipino, is a local government-funded college in Olongapo City, Philippines. It was founded on February 24, 1999 by virtue of City Ordinance No. 9, and is composed of four constituent colleges: College of Computer Studies, College of Business and Accountancy, College of Education, and College of Nursing. Other academic units include the School of Midwifery, Department of Vocational Technology, Faculty of Arts and Sciences, Center for Research and Development, and Institute of Graduate Studies. As of now, Gordon College - College of Computer Studies is an active member and pioneer school in Asia Pacific to roll-out BlackBerry Academic Program. GC-CCS is also academic partner of IBM DB2.GC-CCS program (BSIT,BSCS,ACT) is currently accredited Level 1.</font></p>
+	<p align="center"><font size="4%" face="Century Gothic"><strong>Undergraduate Courses<strong></font>
+	<p align="left"><font size="3%" face="Century Gothic">-Bachelor of Science in Nursing<br>-Bachelor of Elementary Education<br>-Bachelor of Secondary Education<br>-Bachelor of Science in Accountancy (5 years)<br>-Bachelor of Science in Accounting Technology (4 years)<br>-Bachelor of Science in Customs Administration<br>-Bachelor of Science in Business Administration (formerly Business Management)<br>-Associate in Hotel and Restaurant Management (2 years)<br>-Bachelor of Science in Computer Science<br>-Bachelor of Science in Information Technology<br>-Associate in Computer Technology (2 years)<br>-Graduate of Midwifery</font>
+	<br><br>
+	
+  
+	 
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<div data-role="navbar">
+		<ul>
+		<li><a href="#mainpage" data-theme="b"  data-icon="arrow-l" data-iconpos="top"><font size="3%">Back</font></a></li>
+			
+			</ul>
+	</div><!-- /navbar -->
+</div>
+	
+</div>
+  
+  </div>
+  
+  
+  
+
+      <!--About-->
+<div data-role="page" id="about" style= "background: transparent url(images/capbg.png);">
+
+  <div data-role="content" align="center">
+  
+
+  <img src="images/cap1.png" height="50%" width="50%"></br>
+    <font size="5%" face="Century Gothic"> <p align="center">Version 1.0</p> </font>
+     <font size="3%" face="Century Gothic"> <p align="justify">CCS Access Point (CAP) is a cross platform mobile student portal created for Gordon College - College of Computer Studies. It was created to provide communication medium that is beneficial among the Faculty Members, Parents and especially the Students and to promote innovation for the college by providing convenient way of viewing their grades and portable reference of college information.</p></font>
+	 <font size="3%" face="Century Gothic"> <p align="justify">This application is created using HTML5, Javascript and CSS and available on BlackBerry World for z10 and q10 and Google Play for Android phones.<font></p>
+  <font size="2%" face="Century Gothic"> <p align="center"><strong>Scan this to download</strong></p> </font>
+ <img src="images/qr.png" height="50%" width="50%"></br>
+
+  
+	 
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<div data-role="navbar">
+		<ul>
+		<li><a href="#first" data-theme="c"  data-icon="arrow-l" data-iconpos="top"><font size="3%">Back</font></a></li>
+		<li><a href="#ithree" data-theme="c"  data-icon="star" data-iconpos="top"><font size="3%">Developers</font></a></li>
+			
+			</ul>
+	</div><!-- /navbar -->
+</div>
+	
+</div>
+  
+  </div>
+
+
+  
+  
+  
+  <!-- CALENDAR-->
+<div data-role="page" data-theme="e" id="calendar">
+ <div data-role="header" data-theme="b" div style="min-height: 130px;" align="center" data-position="fixed" >
+ <a href="#main" data-role="button" data-icon="arrow-l" data-iconpos="left" data-inline="true" data-transition="flow"><font size="5">Back</font></a>
+<img src="images/header.png" height="130" width="500">
+</div>
+  <div data-role="content" align="center">
+  
+  <h3 class="acad">Academic Year 2013-2014</h3></br></br>
+  
+  <!--MONTHS-->
+  <div data-role="collapsible" data-theme="c" data-content-theme="a" class="my-calendar">
+    <h4>MAY</h4>
+    <p class="cformat">MAY 6-31: Registration/Enrollment Period</p>
+</div>
+  
+  <div data-role="collapsible" data-theme="c" data-content-theme="a" class="my-calendar">
+    <h4>JUNE</h4>
+    <p class="cformat">JUNE 3: Start of Classes</p>
+	<p class="cformat">JUNE 5: General Student Orientation</p>
+	<p class="cformat">JUNE 12: INDEPENDENCE DAY</p>
+	<p class="cformat">JUNE 14: CCS General Orientation with parents</p>
+	<p class="cformat">JUNE 14: Last Day of Dropping of Subjects with Refund</p>
+
+</div>
+  
+  <div data-role="collapsible" data-theme="c" data-content-theme="a" class="my-calendar">
+    <h4>JULY</h4>
+    <p class="cformat">JULY 12: Last Day of Dropping of Subjects with Permission</p>
+	<p class="cformat">JULY 15-20: PRELIM EXAMINATIONS</p>
+	<p class="cformat">JULY 22: CCS ACQUAINTANCE PARTY</p>
+	
+</div>
+
+<div data-role="collapsible" data-theme="c" data-content-theme="a" class="my-calendar">
+    <h4>AUGUST</h4>
+	 <p class="cformat">AUGUST 17-18: WebGeek</p>
+    <p class="cformat">AUGUST 26: NATIONAL HEROES DAY</p>
+	<p class="cformat">AUGUST 27-31: MIDTERM EXAMINATIONS</p>
+	<p class="cformat">AUGUST 29-30: SAITE 2013</p>
+</div>
+
+<div data-role="collapsible" data-theme="c" data-content-theme="a" class="my-calendar">
+    <h4>SEPTEMBER</h4>
+    <p class="cformat">SEPTEMBER 3-6: ANNUAL SPORTFEST</p>
+	<p class="cformat">SEPTEMBER 17-19: Y4IT</p>
+	<p class="cformat">SEPTEMBER: ACCREDITATION</p>
+</div>
+
+<div data-role="collapsible" data-theme="c" data-content-theme="a" class="my-calendar">
+    <h4>OCTOBER</h4>
+    <p class="cformat">OCTOBER 8-12: FINAL EXAMINATIONS</p>
+	<p class="cformat">OCTOBER 13: SEMESTRAL BREAK</p>
+	<p class="cformat">OCTOBER 14-18: IT Olympiad (Training) </p>
+	 <p class="cformat">OCTOBER 23-31: Registration/Enrollment Period</p>
+	
+</div>
+
+<div data-role="collapsible" data-theme="c" data-content-theme="a" class="my-calendar">
+    <h4>NOVEMBER</h4>
+    <p class="cformat">NOVEMBER 1: ALL SAINT'S DAY</p>
+	 <p class="cformat">NOVEMBER 4: START OF CLASSES</p>
+	  <p class="cformat">NOVEMBER 15: Last Day of Dropping of Subjects with Refund</p>
+	   <p class="cformat">NOVEMBER 22: IT Olympiad (Actual)</p>
+	    <p class="cformat">NOVEMBER 30: BONIFACIO DAY</p>
+		 <p class="cformat">NOVEMBER: HACKATHON</p>
+</div>
+
+<div data-role="collapsible" data-theme="c" data-content-theme="a" class="my-calendar">
+    <h4>DECEMBER</h4>
+    <p class="cformat">DECEMBER 6: Last Day of Dropping of Subject with Permission</p>
+	<p class="cformat">DECEMBER 9-14: Second Semester Prelim Examinations</p>
+	<p class="cformat">DECEMBER 15- January 1: CHRISTMAS VACATION</p>
+	<p class="cformat">DECEMBER 25: CHRISTMAS DAY</p>
+	<p class="cformat">DECEMBER 30: RIZAL DAY/OLONGAPO CITY FIESTA</p>
+</div>
+
+<div data-role="collapsible" data-theme="c" data-content-theme="a" class="my-calendar">
+    <h4>JANUARY</h4>
+    <p class="cformat">JANUARY 1: NEW YEAR</p>
+	<p class="cformat">JANUARY 2: Classes Resume</p>
+	<p class="cformat">JANUARY 22-24: CCS WEEK 2014</p>
+	<p class="cformat">JANUARY 30-31: SCITE 2014</p>
+</div>
+
+<div data-role="collapsible" data-theme="c" data-content-theme="a" class="my-calendar">
+    <h4>FERBRUARY</h4>
+	<p class="cformat">FEBRUARY 3-8: Second Semester Midterm Examinations</p>
+	<p class="cformat">FEBRUARY 18-21: 15th Founding Anniversay Celebration</p>
+</div>
+
+<div data-role="collapsible" data-theme="c" data-content-theme="a" class="my-calendar">
+    <h4>MARCH</h4>
+   <p class="cformat">MARCH 1-15: Final Examination(Graduating Students)</p>
+   <p class="cformat">MARCH 24-29: Final Examination (Non-graduating Students)</p>
+   <p class="cformat">MARCH: RECOGNITION</p>
+</div>
+
+<div data-role="collapsible" data-theme="c" data-content-theme="a" class="my-calendar">
+    <h4>APRIL</h4>
+    <p class="cformat">APRIL 2: COMMENCEMENT EXERCISES</p>
+	<p class="cformat">APRIL 3-11: Registration/Enrollement Period for Summer Class</p>
+	<p class="cformat">APRIL 9: ARAW NG KAGITINGAN</p>
+	<p class="cformat">APRIL 14: Start of Classes</p>
+	<p class="cformat">APRIL 17: MAUNDY THURSDAY</p>
+	<p class="cformat">APRIL 18: GOOD FRIDAY</p>
+</div>
+  <!--END-->
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<h1>Alrights Reserved 2013</h1>
+</div>
+	
+</div>
+  
+  </div>
+ 
+  <!--PARTNERS-->
+<div data-role="page" data-theme="e" id="partners">
+ <div data-role="header" data-theme="b" div style="min-height: 130px;" align="center" data-position="fixed">
+ <a href="#main" data-role="button" data-icon="arrow-l" data-iconpos="left" data-inline="true"><font size="5">Back</font></a>
+<img src="images/header.png" height="130" width="500">
+</div>
+  <div data-role="content" align="center">
+
+</br></br>
+<div id="content"><img src="images/partners.png" height="950" width="630"></div>
+
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<h1>Alrights Reserved 2013</h1>
+</div>
+	
+</div>
+  
+  </div>
+  <!--PARTNERS END-->
+  
+ <!--VMG-->
+<div data-role="page" data-theme="e" id="vmg">
+ <div data-role="header" data-theme="b" div style="min-height: 130px;" align="center" data-position="fixed">
+ <a href="#main" data-role="button" data-icon="arrow-l" data-iconpos="left" data-inline="true"><font size="5">Back</font></a>
+<img src="images/header.png" height="130" width="500">
+</div>
+  <div data-role="content" align="center">
+		<div data-role="navbar">
+		<ul>
+			<li><a href="#vmg" data-theme="c" class="navbut" data-icon="gear" data-iconpos="top"><font size="5">VISION</font></a></li>
+			<li><a href="#mission" data-theme="c" class="navbut" data-icon="check" data-iconpos="top"><font size="5">MISSION</font></a></li>
+			<li><a href="#goals" data-theme="c" class="navbut" data-icon="bars" data-iconpos="top"><font size="5">GOALS</font></a></li>
+		</ul>
+	</div><!-- /navbar -->
+</br></br>
+<div id="content"><img src="images/vision.png" height="950" width="630"></div>
+
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<h1>Alrights Reserved 2013</h1>
+</div>
+	
+</div>
+  
+  </div>
+  <!--VMG end-->
+  
+  
+   <!--Mission-->
+<div data-role="page" data-theme="e" id="mission">
+ <div data-role="header" data-theme="b" div style="min-height: 130px;" align="center" data-position="fixed">
+ <a href="#main" data-role="button" data-icon="arrow-l" data-iconpos="left" data-inline="true"><font size="5">Back</font></a>
+<img src="images/header.png" height="130" width="500">
+</div>
+  <div data-role="content" align="center">
+  <div data-role="navbar">
+		<ul>
+			<li><a href="#vmg" data-theme="c" class="navbut" data-icon="gear" data-iconpos="top"><font size="5">VISION</font></a></li>
+			<li><a href="#mission" data-theme="c" class="navbut" data-icon="check" data-iconpos="top"><font size="5">MISSION</font></a></li>
+			<li><a href="#goals" data-theme="c" class="navbut" data-icon="bars" data-iconpos="top"><font size="5">GOALS</font></a></li>
+		</ul>
+	</div><!-- /navbar -->
+</br></br>
+<div id="content"><img src="images/mission.png" height="950" width="630"></div>
+
+
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<h1>Alrights Reserved 2013</h1>
+</div>
+	
+</div>
+  
+  </div>
+  <!--mission end-->
+  
+  <!--Goals-->
+<div data-role="page" data-theme="e" id="goals">
+ <div data-role="header" data-theme="b" div style="min-height: 130px;" align="center" data-position="fixed">
+ <a href="#main" data-role="button" data-icon="arrow-l" data-iconpos="left" data-inline="true"><font size="5">Back</font></a>
+<img src="images/header.png" height="130" width="500">
+</div>
+  <div data-role="content" align="center">
+ <div data-role="navbar">
+		<ul>
+			<li><a href="#vmg" data-theme="c" class="navbut" data-icon="gear" data-iconpos="top"><font size="5">VISION</font></a></li>
+			<li><a href="#mission" data-theme="c" class="navbut" data-icon="check" data-iconpos="top"><font size="5">MISSION</font></a></li>
+			<li><a href="#goals" data-theme="c" class="navbut" data-icon="bars" data-iconpos="top"><font size="5">GOALS</font></a></li>
+		</ul>
+	</div><!-- /navbar -->
+</br>
+<div data-role="controlgroup" data-type="horizontal" align="center" >
+    <a href="#goals" data-role="button" data-theme="c" class="my-buttonssss" data-transition="pop"><font size="5px">1</font></a>
+    <a href="#goals1" data-role="button" data-theme="c" class="my-buttonsssz" data-transition="flip"><font size="5px">2</font></a>
+    </div>
+<div id="content"><img src="images/goals.png" height="950" width="600"></div>
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<h1>Alrights Reserved 2013</h1>
+</div>
+</div>  
+  </div>
+  
+
+  <div data-role="page" data-theme="e" id="goals1">
+ <div data-role="header" data-theme="b" div style="min-height: 130px;" align="center" data-position="fixed">
+ <a href="#main" data-role="button" data-icon="arrow-l" data-iconpos="left" data-inline="true"><font size="5">Back</font></a>
+<img src="images/header.png" height="130" width="500">
+</div>
+  <div data-role="content" align="center">
+  
+  
+   <div data-role="navbar">
+		<ul>
+			<li><a href="#vmg" data-theme="c" class="navbut" data-icon="gear" data-iconpos="top"><font size="5">VISION</font></a></li>
+			<li><a href="#mission" data-theme="c" class="navbut" data-icon="check" data-iconpos="top"><font size="5">MISSION</font></a></li>
+			<li><a href="#goals" data-theme="c" class="navbut" data-icon="bars" data-iconpos="top"><font size="5">GOALS</font></a></li>
+		</ul>
+	</div><!-- /navbar -->
+</br>
+<div data-role="controlgroup" data-type="horizontal" align="center" >
+    <a href="#goals" data-role="button" data-theme="c" class="my-buttonssss" data-transition="pop"><font size="5px">1</font></a>
+    <a href="#goals1" data-role="button" data-theme="c" class="my-buttonsssz" data-transition="flip"><font size="5px">2</font></a>
+
+    </div>
+<div id="content"><img src="images/goals1.png" height="950" width="600"></div>
+
+
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<h1>Alrights Reserved 2013</h1>
+</div>
+	
+</div>
+  
+  </div>
+  <!--goals end-->
+   <!--Courses Offered-->
+<div data-role="page" data-theme="e" id="courses">
+ <div data-role="header" data-theme="b" div style="min-height: 130px;" align="center" data-position="fixed">
+ <a href="#main" data-role="button" data-icon="arrow-l" data-iconpos="left" data-inline="true"><font size="5">Back</font></a>
+<img src="images/header.png" height="130" width="500">
+</div>
+  <div data-role="content" align="center">
+	 <div data-role="navbar">
+		<ul>
+			<li><a href="#courses" data-theme="c" class="navbut"><font size="5">ACT</font></a></li>
+			<li><a href="#bsit" data-theme="c" class="navbut"><font size="5">BSIT</font></a></li>
+			<li><a href="#bscs" data-theme="c" class="navbut"><font size="5">BSCS</font></a></li>
+		</ul>
+	</div><!-- /navbar -->
+	<br><br>
+	<div id="content"><img src="images/act.png" height="1100" width="650"></div>
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<h1>Alrights Reserved 2013</h1>
+</div>	
+</div>
+  </div>
+  
+ 
+   <div data-role="page" data-theme="e" id="bsit">
+ <div data-role="header" data-theme="b" div style="min-height: 130px;" align="center" data-position="fixed">
+ <a href="#main" data-role="button" data-icon="arrow-l" data-iconpos="left" data-inline="true"><font size="5">Back</font></a>
+<img src="images/header.png" height="130" width="500">
+</div>
+  <div data-role="content" align="center">
+  
+
+  
+     <div data-role="navbar">
+		<ul>
+			<li><a href="#courses" data-theme="c" class="navbut"><font size="5">ACT</font></a></li>
+			<li><a href="#bsit" data-theme="c" class="navbut"><font size="5">BSIT</font></a></li>
+			<li><a href="#bscs" data-theme="c" class="navbut"><font size="5">BSCS</font></a></li>
+		</ul>
+	</div><!-- /navbar -->
+	<br><br>
+	<div id="content"><img src="images/bsit.png" height="1100" width="650"></div>
+	
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<h1>Alrights Reserved 2013</h1>
+</div>
+	
+</div>
+  
+  </div>
+  
+ 
+   <div data-role="page" data-theme="e" id="bscs">
+ <div data-role="header" data-theme="b" div style="min-height: 130px;" align="center" data-position="fixed">
+ <a href="#main" data-role="button" data-icon="arrow-l" data-iconpos="left" data-inline="true"><font size="5">Back</font></a>
+<img src="images/header.png" height="130" width="500">
+</div>
+  <div data-role="content" align="center">
+  
+ 
+  
+     <div data-role="navbar">
+		<ul>
+			<li><a href="#courses" data-theme="c" class="navbut"><font size="5">ACT</font></a></li>
+			<li><a href="#bsit" data-theme="c" class="navbut"><font size="5">BSIT</font></a></li>
+			<li><a href="#bscs" data-theme="c" class="navbut"><font size="5">BSCS</font></a></li>
+		</ul>
+	</div><!-- /navbar -->
+	</br></br>
+	<div id="content"><img src="images/bscs.png" height="1100" width="650"></div>
+	
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<h1>Alrights Reserved 2013</h1>
+</div>
+	
+</div>
+  
+  </div>
+  
+  
+  
+  <!--Courses Offered end-->
+  
+  
+  
+  
+
+  
+      
+  
+      <!--Contact Us-->
+<div data-role="page" data-theme="e" id="contact">
+ <div data-role="header" data-theme="b" div style="min-height: 130px;" align="center" data-position="fixed">
+ <a href="#main" data-role="button" data-icon="arrow-l" data-iconpos="left" data-inline="true"><font size="5">Back</font></a>
+<img src="images/header.png" height="130" width="500">
+</div>
+  <div data-role="content" align="center">
+  
+  <h3 class="acad">CONTACT US</h3>
+ 
+  <div id="content"><img src="images/contacts.png" height="950" width="600"></div>
+    
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<h1>Alrights Reserved 2013</h1>
+</div>
+	
+</div>
+  
+  </div>
+  <!--Contact end-->
+  
+  
+  
+  
+  
+   
+  
+  
+     <!--Admission-->
+<div data-role="page" data-theme="e" id="admission">
+ <div data-role="header" data-theme="b" div style="min-height: 130px;" align="center" data-position="fixed">
+ <a href="#main" data-role="button" data-icon="arrow-l" data-iconpos="left" data-inline="true"><font size="5">Back</font></a>
+<img src="images/header.png" height="130" width="500">
+</div>
+  <div data-role="content" align="center">
+  
+  
+    <div data-role="navbar">
+		<ul>
+			<li><a href="#admission" data-theme="c" class="navbut" data-icon="check" data-iconpos="top"><font size="5">Requirements</font></a></li>
+			<li><a href="#procedure" data-theme="c" class="navbut" data-icon="bars" data-iconpos="top"><font size="5">Procedures</font></a></li>
+			
+		</ul>
+	</div><!-- /navbar -->
+	</br>
+	<div id="content"><img src="images/admission.png" height="1100" width="650"></div>
+	
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<h1>Alrights Reserved 2013</h1>
+</div>
+	
+</div>
+  
+  </div>
+
+</div>
+
+<div data-role="page" data-theme="e" id="procedure">
+ <div data-role="header" data-theme="b" div style="min-height: 130px;" align="center" data-position="fixed">
+ <a href="#main" data-role="button" data-icon="arrow-l" data-iconpos="left" data-inline="true"><font size="5">Back</font></a>
+<img src="images/header.png" height="130" width="500">
+</div>
+  <div data-role="content" align="center">
+  
+  
+    <div data-role="navbar">
+		<ul>
+			<li><a href="#admission" data-theme="c" class="navbut" data-icon="check" data-iconpos="top"><font size="5">Requirements</font></a></li>
+			<li><a href="#procedure" data-theme="c" class="navbut" data-icon="bars" data-iconpos="top"><font size="5">Procedures</font></a></li>
+			
+		</ul>
+	</div><!-- /navbar -->
+	</br>
+	<div id="content"><img src="images/procedure1.png" height="1100" width="650"></div>
+	 <a href="#procedure1" data-role="button" data-theme="c" class="my-buttonsssz" data-transition="flip"><font size="5px">Next</font></a>
+		
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<h1>Alrights Reserved 2013</h1>
+</div>
+	
+</div>
+  
+  </div>
+  
+  <div data-role="page" data-theme="e" id="procedure1">
+ <div data-role="header" data-theme="b" div style="min-height: 130px;" align="center" data-position="fixed">
+ <a href="#main" data-role="button" data-icon="arrow-l" data-iconpos="left" data-inline="true"><font size="5">Back</font></a>
+<img src="images/header.png" height="130" width="500">
+</div>
+  <div data-role="content" align="center">
+  
+  
+   <div data-role="navbar">
+		<ul>
+			<li><a href="#admission" data-theme="c" class="navbut" data-icon="check" data-iconpos="top"><font size="5">Requirements</font></a></li>
+			<li><a href="#procedure" data-theme="c" class="navbut" data-icon="bars" data-iconpos="top"><font size="5">Procedures</font></a></li>
+			
+		</ul>
+	</div><!-- /navbar -->
+	</br>
+	<div id="content"><img src="images/procedure2.png" height="1100" width="650"></div>
+	 <a href="#procedure" data-role="button" data-theme="c" class="my-buttonsssz" data-transition="flip"><font size="5px">Previous</font></a>
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<h1>Alrights Reserved 2013</h1>
+</div>
+	
+</div>
+  
+  </div>
+
+</div>
+
+<!--admission end-->
+
+
+
+
+
+
+
+
+
+
+<!----CMS------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+<div data-role="page" data-theme="e" id="cms">
+ <div data-role="header" data-theme="b" div style="min-height: 130px;" align="center" data-position="fixed">
+ <a href="#main" data-role="button" data-icon="arrow-l" data-iconpos="left" data-inline="true"><font size="5">Back</font></a>
+<img src="images/header.png" height="130" width="500">
+</div>
+  <div data-role="content" align="center">
+  
+  <div data-role="footer" align="center">		
+	<div data-role="navbar">
+		<ul>
+			<li><a href="#main" data-theme="c" class="navbut" data-icon="info" data-iconpos="top"><font size="5">Home</font></a></li>
+			<li><a href="#cms" data-theme="c" class="navbut" data-icon="gear" data-iconpos="top"><font size="5">Announcements</font></a></li>
+			<li><a href="http://gordoncollegeccs.edu.ph/ccswebsite/student/index.html" data-theme="c" class="navbut" data-icon="star" data-iconpos="top"><font size="5"> Student Portal</font></a></li>
+		</ul>
+	</div><!-- /navbar -->
+</div>
+
+
+	
+	<div id="a1">UPDATES</div>
+	
+	
+	
+	 <div data-role="footer" data-position="fixed" data-theme="b">
+	<h1>Alrights Reserved 2013</h1>
+</div>
+	
+</div>
+ 
+
+</div>
+
+
+<!--LOGIN PAGE------------------------------------------------------------------------------------------------------------------->
+<div data-role="page" id="login" class="content" style= "background: transparent url(images/capbg.png); background-repeat: no-repeat;">
+
+
+<div data-role="content" align="center">
+</br></br>
+	<div id="content"><img src="images/cap1.png" height="450" width="540"></div>
+	
+		 <br><br>
+		 <label><font size="8px" face="Century Gothic">Log-in as...</font></label><br><br>
+		  <div id="content" ><a href="student.html" data-transition="flow"><img src="images/studentlog.png" height="50" width="400"></a></div>
+	  <div id="content" ><a href="#" data-transition="flow"><img src="images/parentlog.png" height="50" width="400"></a></div>
+	<div id="content" ><a href="#" data-transition="flow"><img src="images/facultylog.png" height="50" width="400"></a></div>
+		 
+
+	
+	<div data-role="footer" data-position="fixed" data-theme="b">
+	<div data-role="navbar">
+		<ul>
+		
+		<li><a href="#main" data-theme="c" class="navbut" data-icon="arrow-l" data-iconpos="top"><font size="5">Back</font></a></li>
+			<li><a href="#first" data-theme="c" class="navbut" data-icon="home" data-iconpos="top"><font size="5">Home</font></a></li>
+			
+			</ul>
+	</div><!-- /navbar -->
+</div>
+
+
+    </div>
+</div>
